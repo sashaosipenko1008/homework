@@ -1,0 +1,20 @@
+Изменение знака 0
+http://qa-lab.cloud-pro.ru:8081/browse/CT-68
+
+Вычисление квадратного корня из дробного числа
+http://qa-lab.cloud-pro.ru:8081/browse/CT-70
+
+Орфографическая ошибка в сообщении об ошибке (деление на 0)
+http://qa-lab.cloud-pro.ru:8081/browse/CT-72
+
+Операция умножения 100%
+http://qa-lab.cloud-pro.ru:8081/browse/CT-73
+
+Операция вычитания 100%
+http://qa-lab.cloud-pro.ru:8081/browse/CT-74
+
+Умножение на 0
+http://qa-lab.cloud-pro.ru:8081/browse/CT-75
+
+Орфографическая ошибка в сообщении об ошибке (корень из отрицательного числа)
+http://qa-lab.cloud-pro.ru:8081/browse/CT-76
