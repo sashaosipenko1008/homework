@@ -1,0 +1,29 @@
+Баг на добавление нескольких файлов
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-79
+
+Удаление двух файлов
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-80
+
+Загрузка изображения
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-81
+
+Орфографические ошибки в интерфейсе
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-82
+
+Удаление списка файлов
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-82
+
+Кнопка развертывания программы на весь экран
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-84
+
+Проверка на активность команд главного меню
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-85
+
+Удобство использования программы
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-86
+
+Стиль текста в программе
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-87
+
+Нажатие enter
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-88
